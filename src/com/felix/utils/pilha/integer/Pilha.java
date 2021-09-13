@@ -1,4 +1,4 @@
-package model;
+package com.felix.utils.pilha.integer;
 
 public class Pilha {
 	
